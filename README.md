@@ -1,23 +1,10 @@
-<!--Banner-->
-![sergioDavidCano Banner
-Image](https://github.com/sergioDavidCano/sergioDavidCano/blob/main/banner.png)
-
-<!--Night Owl image-->
-<div>
-  <img
-    align="right"
-    width="40%"
-    src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-  />
-</div>
-
 <!--Header Name-->
 #
 <img
   src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
   width="30"
 />
-ɪ'ᴍ ᴋɪʀᴀɴ! *Digital Craftsman (Developer / Programmer)*
+ɪ'ᴍ Sergio Cano! *(Developer / Programmer)*
 <br />
 
 <!--Start Intro-->
@@ -51,7 +38,7 @@ Community**. - ✍ I write technical blogs, You can visit my blog site at
 <p align="center">
   <img
     width="500px"
-    src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"
+    src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,electron,vite,angular,nodejs,npm,express,laravel,postgres,mysql,mongo,git,vscode,postman,linux,powershell&perline=10"
   />
 </p>
 <br />
