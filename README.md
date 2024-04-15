@@ -9,8 +9,8 @@
 
 <!--Start Intro-->
 <p align="left">
-  I am a Full Stack Developer and Machine Learning Enthusiast with a huge love
-  for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.
+  As a programmer with three years of experience, I've evolved from basic knowledge to a solid understanding of programming, working on real-world projects and honing my skills in various languages. I'm now 
+  ready to take on more significant challenges and lead projects with greater autonomy and confidence..
 </p>
 
 <!--Profile Count Badge-->
