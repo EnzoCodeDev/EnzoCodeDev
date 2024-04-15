@@ -13,14 +13,6 @@
   for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.
 </p>
 
-- ✨ Student of life :) - 🌱 I’m currently learning many things, I believe that
-everyday is a learning opportunity. - 🏙 A lifetime insider and Mentor at
-[Exercism](https://exercism.org/profiles/sergioDavidCano). - 💁‍♂️ Volunteer MOD at **Dev
-Community**. - ✍ I write technical blogs, You can visit my blog site at
-[DEV](https://dev.to/dev_kiran). - ❤ Contributing to Open Source. - 💻 Visit my
-[Portfolio](https://sergioDavidCano.github.io) for more details about me.
-<!--End Intro-->
-
 <!--Profile Count Badge-->
 <p align="left">
   <img
