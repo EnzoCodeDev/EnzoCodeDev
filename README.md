@@ -88,14 +88,14 @@ const sergio = {
     </td>
     <td width="50%" valign="top">
       <h3>💼 Personal portfolio</h3>
-      <p>My personal website, where I showcase my experience, education, skills and projects, with a contact form and Spanish/English support.</p>
+      <p>My personal website under the <b>enzoCodev</b> brand — web development + AI. A minimalist dark design with a side menu that showcases my projects, stack, experience and contact info.</p>
       <p>
         <a href="https://portafolio.enzocode.dev"><b>🌐 Live site</b></a> ·
         <i>🔒 Private repository</i>
       </p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
 </table>
