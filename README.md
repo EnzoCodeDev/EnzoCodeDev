@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://portafolio.enzocode.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+since+2021+%F0%9F%9A%80;Building+web+apps+end+to+end+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Java;Practicing+English+with+my+own+app+%F0%9F%97%A3%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+since+2021+%F0%9F%9A%80;Building+web+apps+end+to+end+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Java;AI-assisted+development%3A+Claude+%C2%B7+Codex+%C2%B7+Hermes+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,10 @@
 
 I'm **Sergio Cano**, a **Full Stack Developer** from 🇨🇴 Colombia, building web applications and platforms professionally since **2021**. I enjoy shipping complete products — from database and API design to polished, responsive interfaces — that solve real problems.
 
+I work with **AI-assisted development**, using **Claude**, **Codex** and **Hermes** to plan, write and review code. AI speeds up the process; I make the decisions and validate the result.
+
 - 🧑‍💻 **Currently:** building full stack web apps and platforms
+- 🤖 **AI workflow:** Claude · Codex · Hermes
 - 🎓 **Studying:** Software Analysis & Development (Technologist degree)
 - 🗣️ **Building:** [Speak English Enzo](https://speak-english-enzo.enzocode.dev), an app to practice everyday English phrases
 - 💼 **Open to:** freelance projects and new opportunities
@@ -38,6 +41,7 @@ const sergio = {
   backend: ["Node.js", "Laravel", "Symfony", "Spring Boot", ".NET", "Python"],
   databases: ["PostgreSQL", "MySQL", "MongoDB"],
   devops: ["Docker", "Linux", "GitHub Actions", "Vercel"],
+  ai: ["Claude", "Codex", "Hermes"],
   languages: ["Spanish (native)", "English"],
 };
 ```
@@ -67,6 +71,14 @@ const sergio = {
     <td align="center"><b>DevOps & Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,githubactions,vercel,postman,vscode&theme=dark" alt="DevOps and tools" /></td>
   </tr>
+  <tr>
+    <td align="center"><b>AI-assisted dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white" alt="Codex" />
+      <img src="https://img.shields.io/badge/Hermes-5B5FE9?style=for-the-badge" alt="Hermes" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -77,7 +89,7 @@ const sergio = {
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ Speak English Enzo</h3>
-      <p>My project to <b>practice everyday English phrases</b> out loud. You get a phrase with its translation, listen to how it sounds, repeat it into the mic, and the app scores your pronunciation — you only move on after hitting 80&nbsp;% accuracy twice in a row. 150 real-life phrases split into 3 sets, with word-by-word meaning and slow playback.</p>
+      <p>My project to <b>practice everyday English phrases</b> out loud. You get a phrase with its translation, listen to how it sounds, repeat it into the mic, and the app scores your pronunciation — you only move on after hitting 80&nbsp;% accuracy twice in a row. Real-life phrases organized in sets, with word-by-word meaning and slow playback. Built with AI-assisted development.</p>
       <p>
         <a href="https://speak-english-enzo.enzocode.dev"><b>🌐 Live app</b></a> ·
         <a href="https://github.com/EnzoCodeDev/speak-english-enzo"><b>💻 Source code</b></a>
@@ -88,7 +100,7 @@ const sergio = {
     </td>
     <td width="50%" valign="top">
       <h3>💼 Personal portfolio</h3>
-      <p>My personal website under the <b>enzoCodev</b> brand — web development + AI. A minimalist dark design with a side menu that showcases my projects, stack, experience and contact info.</p>
+      <p>My personal website under the <b>enzoCodev</b> brand — web development + AI. A minimalist dark design with a side menu that showcases my projects, stack, experience and contact info. Built with AI-assisted development.</p>
       <p>
         <a href="https://portafolio.enzocode.dev"><b>🌐 Live site</b></a> ·
         <i>🔒 Private repository</i>
