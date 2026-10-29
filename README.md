@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://portafolio.enzocode.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+since+2021+%F0%9F%9A%80;Building+web+apps+end+to+end+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Java;Hacking+on+local+AI+with+Python+%2B+Ollama+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+since+2021+%F0%9F%9A%80;Building+web+apps+end+to+end+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Java;Practicing+English+with+my+own+app+%F0%9F%97%A3%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I'm **Sergio Cano**, a **Full Stack Developer** from 🇨🇴 Colombia, building
 
 - 🧑‍💻 **Currently:** building full stack web apps and platforms
 - 🎓 **Studying:** Software Analysis & Development (Technologist degree)
-- 🤖 **Exploring:** local AI (Ollama) and real-time voice tools
+- 🗣️ **Building:** [Speak English Enzo](https://speak-english-enzo.enzocode.dev), an app to practice everyday English phrases
 - 💼 **Open to:** freelance projects and new opportunities
 - 📫 **Reach me:** [contacto@enzocode.dev](mailto:contacto@enzocode.dev) · [WhatsApp](https://wa.me/573504928148)
 - 🌐 **Portfolio:** [portafolio.enzocode.dev](https://portafolio.enzocode.dev)
@@ -76,44 +76,29 @@ const sergio = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💙 <a href="https://github.com/EnzoCodeDev/speak-enzo">Speak Enzo</a></h3>
-      <p>Voice-based English tutor powered by a <b>100&nbsp;% local AI</b> (Ollama): it corrects your grammar, has a strict mode that won't let you move on until your pronunciation is right, and generates <b>real-time subtitles for VRChat</b>. No accounts, no API keys.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <h3>🗣️ Speak English Enzo</h3>
+      <p>My project to <b>practice everyday English phrases</b> out loud. You get a phrase with its translation, listen to how it sounds, repeat it into the mic, and the app scores your pronunciation — you only move on after hitting 80&nbsp;% accuracy twice in a row. 150 real-life phrases split into 3 sets, with word-by-word meaning and slow playback.</p>
+      <p>
+        <a href="https://speak-english-enzo.enzocode.dev"><b>🌐 Live app</b></a> ·
+        <a href="https://github.com/EnzoCodeDev/speak-english-enzo"><b>💻 Source code</b></a>
+      </p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>📅 Booking system</h3>
-      <p>Full stack platform split into three apps: a <a href="https://github.com/EnzoCodeDev/api-reservas">REST API</a> with JWT authentication, an <a href="https://github.com/EnzoCodeDev/admin-reservas">admin dashboard</a> with charts and data grids, and a <a href="https://github.com/EnzoCodeDev/client-reservas">client app</a> for date-based bookings.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://github.com/EnzoCodeDev/gym-pay-java">GymPay</a></h3>
-      <p>Gym management system with full CRUD for clients, membership plans, payments, attendance and invoicing, built with the DAO pattern on top of JDBC.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🃏 <a href="https://github.com/EnzoCodeDev/ygo-contador-web">Yu-Gi-Oh! Life Counter</a></h3>
-      <p>Mobile-first web app to keep track of life points during Yu-Gi-Oh! duels. <a href="https://ygo-contador-web.vercel.app"><b>Live demo →</b></a></p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <h3>💼 Personal portfolio</h3>
+      <p>My personal website, where I showcase my experience, education, skills and projects, with a contact form and Spanish/English support.</p>
+      <p>
+        <a href="https://portafolio.enzocode.dev"><b>🌐 Live site</b></a> ·
+        <i>🔒 Private repository</i>
+      </p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/EnzoCodeDev?tab=repositories"><b>See all repositories →</b></a>
-</p>
 
 ---
 
