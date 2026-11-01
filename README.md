@@ -114,12 +114,7 @@ const sergio = {
     <td colspan="2" valign="top">
       <h3>🎬 enzo-videos</h3>
       <p>A <b>private panel to manage the publishing of my short videos</b> on YouTube, Facebook, TikTok and Instagram. Videos arrive only from my AI-assisted editing workflow over SSH — there is no web upload — each one with its own title, description and hashtags tailored to every network (plus YouTube tags and TikTok cover text). In the panel I copy the read-only text, publish on each platform and mark its status; the publish date is stored per network. Email one-time-code sign-in, SQLite storage and light/dark mode.</p>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/enzo-videos-dark.webp" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/enzo-videos-light.webp" />
-        <img src="./assets/enzo-videos-dark.webp" alt="enzo-videos panel with per-network tabs (demo data)" width="100%" />
-      </picture>
-      <p><i>🔒 Private tool · private repository</i> · screenshot with demo data</p>
+      <p><i>🔒 Private tool · private repository</i></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
