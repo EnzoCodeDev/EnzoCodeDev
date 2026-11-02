@@ -111,7 +111,7 @@ const sergio = {
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🎬 enzo-videos</h3>
       <p>A <b>private panel to manage the publishing of my short videos</b> on YouTube, Facebook, TikTok and Instagram. Videos arrive only from my AI-assisted editing workflow over SSH — there is no web upload — each one with its own title, description and hashtags tailored to every network (plus YouTube tags and TikTok cover text). In the panel I copy the read-only text, publish on each platform and mark its status; the publish date is stored per network. Email one-time-code sign-in, SQLite storage and light/dark mode.</p>
       <p><i>🔒 Private tool · private repository</i></p>
@@ -120,6 +120,15 @@ const sergio = {
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 English practice for Crunchyroll &amp; YouTube</h3>
+      <p>A <b>Manifest V3 browser extension</b> that pauses at English subtitles so I can type or repeat each line before continuing. Includes Spanish translations, an approximate pronunciation guide for Spanish speakers, a word dictionary and local progress. Successful answers resume playback after half a second. Speech is scored by transcript similarity, not phonetic analysis. Independent project, not affiliated with either platform.</p>
+      <p><a href="https://github.com/EnzoCodeDev/extension-crunchyroll"><b>💻 Source code &amp; installation</b></a></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
     </td>
   </tr>
 </table>
