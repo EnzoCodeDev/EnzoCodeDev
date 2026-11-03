@@ -131,6 +131,18 @@ const sergio = {
       <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI web automation agent</h3>
+      <p>A <b>Hermes Agent skill</b> that automates professional-profile tasks on the web. It drives a real browser over the <b>Chrome DevTools Protocol</b>, fills in complex forms (rich-text editors and file uploads) and checks each result on the page itself before treating it as done. Includes a one-page, ATS-friendly PDF résumé generator. Personal data stays out of the repository.</p>
+      <p><i>🔒 Private tool · private repository</i></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chrome_DevTools_Protocol-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hermes_Agent-5A3FC0?style=flat-square" />
+      <img src="https://img.shields.io/badge/ReportLab-CC0000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
